@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = 'STest'
-  s.version      = '1.1.1'
+  s.version      = '1.0.0'
   s.summary      = 'STest'
   s.homepage     = 'https://gitlab.xsyxsc.com/xsfe_flutter/ios/library/Z6Extension'
   s.license      = 'MIT'
